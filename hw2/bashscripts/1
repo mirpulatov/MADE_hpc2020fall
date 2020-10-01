@@ -1,0 +1,4 @@
+#!/bin/bash
+for (( c=100; c<=1000; c=c+2 ));
+do echo $c;
+done;
